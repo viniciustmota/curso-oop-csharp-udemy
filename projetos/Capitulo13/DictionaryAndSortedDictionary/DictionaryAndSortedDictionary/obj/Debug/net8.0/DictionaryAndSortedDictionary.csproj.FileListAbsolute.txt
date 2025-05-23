@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\bin\Debug\net8.0\DictionaryAndSortedDictionary.exe
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\bin\Debug\net8.0\DictionaryAndSortedDictionary.deps.json
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\bin\Debug\net8.0\DictionaryAndSortedDictionary.runtimeconfig.json
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\bin\Debug\net8.0\DictionaryAndSortedDictionary.dll
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\bin\Debug\net8.0\DictionaryAndSortedDictionary.pdb
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\DictionaryAndSortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\DictionaryAndSortedDictionary.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\DictionaryAndSortedDictionary.AssemblyInfo.cs
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\DictionaryAndSortedDictionary.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\DictionaryAndSortedDictionary.dll
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\refint\DictionaryAndSortedDictionary.dll
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\DictionaryAndSortedDictionary.pdb
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\DictionaryAndSortedDictionary.genruntimeconfig.cache
+C:\temp\projetos\Capitulo13\DictionaryAndSortedDictionary\DictionaryAndSortedDictionary\obj\Debug\net8.0\ref\DictionaryAndSortedDictionary.dll

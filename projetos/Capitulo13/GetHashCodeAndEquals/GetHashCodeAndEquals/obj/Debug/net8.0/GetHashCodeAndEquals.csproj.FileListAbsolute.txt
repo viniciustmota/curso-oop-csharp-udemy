@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.exe
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.deps.json
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.runtimeconfig.json
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.dll
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.pdb
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.AssemblyInfo.cs
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.dll
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\refint\GetHashCodeAndEquals.dll
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.pdb
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.genruntimeconfig.cache
+C:\temp\projetos\Capitulo13\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\ref\GetHashCodeAndEquals.dll

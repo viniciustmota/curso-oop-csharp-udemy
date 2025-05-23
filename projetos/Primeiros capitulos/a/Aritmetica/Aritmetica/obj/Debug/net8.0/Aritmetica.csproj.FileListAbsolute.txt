@@ -1,0 +1,14 @@
+C:\temp\projetos\Aritmetica\Aritmetica\bin\Debug\net8.0\Aritmetica.exe
+C:\temp\projetos\Aritmetica\Aritmetica\bin\Debug\net8.0\Aritmetica.deps.json
+C:\temp\projetos\Aritmetica\Aritmetica\bin\Debug\net8.0\Aritmetica.runtimeconfig.json
+C:\temp\projetos\Aritmetica\Aritmetica\bin\Debug\net8.0\Aritmetica.dll
+C:\temp\projetos\Aritmetica\Aritmetica\bin\Debug\net8.0\Aritmetica.pdb
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\Aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\Aritmetica.AssemblyInfoInputs.cache
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\Aritmetica.AssemblyInfo.cs
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\Aritmetica.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\Aritmetica.dll
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\refint\Aritmetica.dll
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\Aritmetica.pdb
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\Aritmetica.genruntimeconfig.cache
+C:\temp\projetos\Aritmetica\Aritmetica\obj\Debug\net8.0\ref\Aritmetica.dll

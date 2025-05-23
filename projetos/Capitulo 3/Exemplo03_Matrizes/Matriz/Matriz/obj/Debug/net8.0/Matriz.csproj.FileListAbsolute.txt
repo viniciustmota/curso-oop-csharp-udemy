@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\bin\Debug\net8.0\Matriz.exe
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\bin\Debug\net8.0\Matriz.deps.json
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\bin\Debug\net8.0\Matriz.dll
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\bin\Debug\net8.0\Matriz.pdb
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\Matriz.dll
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\Matriz.pdb
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 3\Exemplo03_Matrizes\Matriz\Matriz\obj\Debug\net8.0\ref\Matriz.dll

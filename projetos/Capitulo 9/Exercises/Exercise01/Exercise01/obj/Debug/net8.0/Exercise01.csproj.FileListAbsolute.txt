@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\bin\Debug\net8.0\Exercise01.exe
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\bin\Debug\net8.0\Exercise01.deps.json
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\bin\Debug\net8.0\Exercise01.runtimeconfig.json
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\bin\Debug\net8.0\Exercise01.dll
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\bin\Debug\net8.0\Exercise01.pdb
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\Exercise01.dll
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\refint\Exercise01.dll
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\Exercise01.pdb
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\Exercise01.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 9\Exercises\Exercise01\Exercise01\obj\Debug\net8.0\ref\Exercise01.dll

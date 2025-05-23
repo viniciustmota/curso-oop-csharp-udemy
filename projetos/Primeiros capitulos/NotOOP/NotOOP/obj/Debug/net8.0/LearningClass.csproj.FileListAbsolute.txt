@@ -1,0 +1,14 @@
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\LearningClass.exe
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\LearningClass.deps.json
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\LearningClass.runtimeconfig.json
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\LearningClass.dll
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\LearningClass.pdb
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\LearningClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\LearningClass.AssemblyInfoInputs.cache
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\LearningClass.AssemblyInfo.cs
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\LearningClass.csproj.CoreCompileInputs.cache
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\LearningClass.dll
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\refint\LearningClass.dll
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\LearningClass.pdb
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\LearningClass.genruntimeconfig.cache
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\ref\LearningClass.dll

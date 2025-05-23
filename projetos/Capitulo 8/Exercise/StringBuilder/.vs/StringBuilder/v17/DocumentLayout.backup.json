@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\StringBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1A4841-B0F0-4760-A107-3C1C5A7CA2EC}|StringBuilder\\StringBuilder.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\stringbuilder\\stringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1A4841-B0F0-4760-A107-3C1C5A7CA2EC}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1A4841-B0F0-4760-A107-3C1C5A7CA2EC}|StringBuilder\\StringBuilder.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\stringbuilder\\stringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1A4841-B0F0-4760-A107-3C1C5A7CA2EC}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1A4841-B0F0-4760-A107-3C1C5A7CA2EC}|StringBuilder\\StringBuilder.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\stringbuilder\\stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1A4841-B0F0-4760-A107-3C1C5A7CA2EC}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\StringBuilder\\StringBuilder\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Entities\\Comment.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\StringBuilder\\StringBuilder\\Entities\\Comment.cs*",
+              "RelativeToolTip": "StringBuilder\\Entities\\Comment.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:09:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\StringBuilder\\StringBuilder\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Entities\\Post.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\StringBuilder\\StringBuilder\\Entities\\Post.cs*",
+              "RelativeToolTip": "StringBuilder\\Entities\\Post.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:14:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\StringBuilder\\StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\StringBuilder\\StringBuilder\\Program.cs*",
+              "RelativeToolTip": "StringBuilder\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:02:05.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

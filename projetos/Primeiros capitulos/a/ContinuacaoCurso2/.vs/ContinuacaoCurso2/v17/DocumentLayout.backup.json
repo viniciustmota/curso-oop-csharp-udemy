@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\ContinuacaoCurso2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BE3B5C-240A-4BBC-B92C-F5A1178E8C05}|ContinuacaoCurso2\\ContinuacaoCurso2.csproj|c:\\temp\\projetos\\continuacaocurso2\\continuacaocurso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BE3B5C-240A-4BBC-B92C-F5A1178E8C05}|ContinuacaoCurso2\\ContinuacaoCurso2.csproj|solutionrelative:continuacaocurso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\ContinuacaoCurso2\\ContinuacaoCurso2\\Program.cs",
+              "RelativeDocumentMoniker": "ContinuacaoCurso2\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\ContinuacaoCurso2\\ContinuacaoCurso2\\Program.cs",
+              "RelativeToolTip": "ContinuacaoCurso2\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:36:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

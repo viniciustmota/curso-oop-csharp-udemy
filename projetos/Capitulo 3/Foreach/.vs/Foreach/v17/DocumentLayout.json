@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo 3\\Foreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAEBB6D-66F5-48AD-94B5-14A8819B03F9}|Foreach\\Foreach.csproj|c:\\temp\\projetos\\capitulo 3\\foreach\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAEBB6D-66F5-48AD-94B5-14A8819B03F9}|Foreach\\Foreach.csproj|solutionrelative:foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 3\\Foreach\\Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "Foreach\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 3\\Foreach\\Foreach\\Program.cs",
+              "RelativeToolTip": "Foreach\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:45:54.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

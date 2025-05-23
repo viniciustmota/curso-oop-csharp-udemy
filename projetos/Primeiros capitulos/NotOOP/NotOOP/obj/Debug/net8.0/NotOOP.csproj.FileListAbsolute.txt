@@ -1,0 +1,14 @@
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\NotOOP.exe
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\NotOOP.deps.json
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\NotOOP.runtimeconfig.json
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\NotOOP.dll
+C:\temp\projetos\NotOOP\NotOOP\bin\Debug\net8.0\NotOOP.pdb
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\NotOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\NotOOP.AssemblyInfoInputs.cache
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\NotOOP.AssemblyInfo.cs
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\NotOOP.csproj.CoreCompileInputs.cache
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\NotOOP.dll
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\refint\NotOOP.dll
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\NotOOP.pdb
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\NotOOP.genruntimeconfig.cache
+C:\temp\projetos\NotOOP\NotOOP\obj\Debug\net8.0\ref\NotOOP.dll

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo15\\ProjectLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F40E9A-061A-4836-BB71-65A135709510}|ProjectLinq\\ProjectLinq.csproj|c:\\temp\\projetos\\capitulo15\\projectlinq\\projectlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F40E9A-061A-4836-BB71-65A135709510}|ProjectLinq\\ProjectLinq.csproj|solutionrelative:projectlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F40E9A-061A-4836-BB71-65A135709510}|ProjectLinq\\ProjectLinq.csproj|c:\\temp\\projetos\\capitulo15\\projectlinq\\projectlinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F40E9A-061A-4836-BB71-65A135709510}|ProjectLinq\\ProjectLinq.csproj|solutionrelative:projectlinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F40E9A-061A-4836-BB71-65A135709510}|ProjectLinq\\ProjectLinq.csproj|c:\\temp\\projetos\\capitulo15\\projectlinq\\projectlinq\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F40E9A-061A-4836-BB71-65A135709510}|ProjectLinq\\ProjectLinq.csproj|solutionrelative:projectlinq\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo15\\ProjectLinq\\ProjectLinq\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProjectLinq\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo15\\ProjectLinq\\ProjectLinq\\Entities\\Product.cs",
+              "RelativeToolTip": "ProjectLinq\\Entities\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:15:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo15\\ProjectLinq\\ProjectLinq\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProjectLinq\\Entities\\Category.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo15\\ProjectLinq\\ProjectLinq\\Entities\\Category.cs",
+              "RelativeToolTip": "ProjectLinq\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:13:20.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo15\\ProjectLinq\\ProjectLinq\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectLinq\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo15\\ProjectLinq\\ProjectLinq\\Program.cs",
+              "RelativeToolTip": "ProjectLinq\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:12:44.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

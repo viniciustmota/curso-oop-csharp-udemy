@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Exercises\\Exercise03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07DD0515-0464-46B7-A95C-F9033264C53B}|Exercise03\\Exercise03.csproj|c:\\temp\\projetos\\exercises\\exercise03\\exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DD0515-0464-46B7-A95C-F9033264C53B}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DD0515-0464-46B7-A95C-F9033264C53B}|Exercise03\\Exercise03.csproj|c:\\temp\\projetos\\exercises\\exercise03\\exercise03\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DD0515-0464-46B7-A95C-F9033264C53B}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercises\\Exercise03\\Exercise03\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Retangulo.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercises\\Exercise03\\Exercise03\\Retangulo.cs",
+              "RelativeToolTip": "Exercise03\\Retangulo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:37:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercises\\Exercise03\\Exercise03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercises\\Exercise03\\Exercise03\\Program.cs",
+              "RelativeToolTip": "Exercise03\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:35:44.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

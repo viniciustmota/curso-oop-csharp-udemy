@@ -1,0 +1,14 @@
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\bin\Debug\net8.0\ContinuacaoCurso3.exe
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\bin\Debug\net8.0\ContinuacaoCurso3.deps.json
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\bin\Debug\net8.0\ContinuacaoCurso3.runtimeconfig.json
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\bin\Debug\net8.0\ContinuacaoCurso3.dll
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\bin\Debug\net8.0\ContinuacaoCurso3.pdb
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ContinuacaoCurso3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ContinuacaoCurso3.AssemblyInfoInputs.cache
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ContinuacaoCurso3.AssemblyInfo.cs
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ContinuacaoCurso3.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ContinuacaoCurso3.dll
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\refint\ContinuacaoCurso3.dll
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ContinuacaoCurso3.pdb
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ContinuacaoCurso3.genruntimeconfig.cache
+C:\temp\projetos\ContinuacaoCurso3\ContinuacaoCurso3\obj\Debug\net8.0\ref\ContinuacaoCurso3.dll

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\LearningClass02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD182A71-BBAE-48F6-8D77-450BADA36332}|LearningClass02\\LearningClass02.csproj|c:\\temp\\projetos\\learningclass02\\learningclass02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD182A71-BBAE-48F6-8D77-450BADA36332}|LearningClass02\\LearningClass02.csproj|solutionrelative:learningclass02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD182A71-BBAE-48F6-8D77-450BADA36332}|LearningClass02\\LearningClass02.csproj|c:\\temp\\projetos\\learningclass02\\learningclass02\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD182A71-BBAE-48F6-8D77-450BADA36332}|LearningClass02\\LearningClass02.csproj|solutionrelative:learningclass02\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 370,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\LearningClass02\\LearningClass02\\Product.cs",
+              "RelativeDocumentMoniker": "LearningClass02\\Product.cs",
+              "ToolTip": "C:\\temp\\projetos\\LearningClass02\\LearningClass02\\Product.cs",
+              "RelativeToolTip": "LearningClass02\\Product.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:34:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\LearningClass02\\LearningClass02\\Program.cs",
+              "RelativeDocumentMoniker": "LearningClass02\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\LearningClass02\\LearningClass02\\Program.cs",
+              "RelativeToolTip": "LearningClass02\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:33:16.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

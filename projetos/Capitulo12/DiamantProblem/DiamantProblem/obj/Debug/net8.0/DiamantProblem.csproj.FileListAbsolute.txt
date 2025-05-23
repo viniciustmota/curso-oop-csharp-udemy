@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\DiamantProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\DiamantProblem.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\DiamantProblem.AssemblyInfo.cs
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\DiamantProblem.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\bin\Debug\net8.0\DiamantProblem.exe
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\bin\Debug\net8.0\DiamantProblem.deps.json
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\bin\Debug\net8.0\DiamantProblem.runtimeconfig.json
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\bin\Debug\net8.0\DiamantProblem.dll
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\bin\Debug\net8.0\DiamantProblem.pdb
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\DiamantProblem.dll
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\refint\DiamantProblem.dll
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\DiamantProblem.pdb
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\DiamantProblem.genruntimeconfig.cache
+C:\temp\projetos\Capitulo12\DiamantProblem\DiamantProblem\obj\Debug\net8.0\ref\DiamantProblem.dll

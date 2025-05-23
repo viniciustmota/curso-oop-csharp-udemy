@@ -1,0 +1,14 @@
+C:\temp\projetos\LearningClass02\LearningClass02\bin\Debug\net8.0\LearningClass02.exe
+C:\temp\projetos\LearningClass02\LearningClass02\bin\Debug\net8.0\LearningClass02.deps.json
+C:\temp\projetos\LearningClass02\LearningClass02\bin\Debug\net8.0\LearningClass02.runtimeconfig.json
+C:\temp\projetos\LearningClass02\LearningClass02\bin\Debug\net8.0\LearningClass02.dll
+C:\temp\projetos\LearningClass02\LearningClass02\bin\Debug\net8.0\LearningClass02.pdb
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\LearningClass02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\LearningClass02.AssemblyInfoInputs.cache
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\LearningClass02.AssemblyInfo.cs
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\LearningClass02.csproj.CoreCompileInputs.cache
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\LearningClass02.dll
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\refint\LearningClass02.dll
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\LearningClass02.pdb
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\LearningClass02.genruntimeconfig.cache
+C:\temp\projetos\LearningClass02\LearningClass02\obj\Debug\net8.0\ref\LearningClass02.dll

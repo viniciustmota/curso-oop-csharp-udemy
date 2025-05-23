@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\bin\Debug\net8.0\RestrictsGenerics.exe
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\bin\Debug\net8.0\RestrictsGenerics.deps.json
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\bin\Debug\net8.0\RestrictsGenerics.runtimeconfig.json
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\bin\Debug\net8.0\RestrictsGenerics.dll
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\bin\Debug\net8.0\RestrictsGenerics.pdb
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\RestrictsGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\RestrictsGenerics.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\RestrictsGenerics.AssemblyInfo.cs
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\RestrictsGenerics.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\RestrictsGenerics.dll
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\refint\RestrictsGenerics.dll
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\RestrictsGenerics.pdb
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\RestrictsGenerics.genruntimeconfig.cache
+C:\temp\projetos\Capitulo13\RestrictsGenerics\RestrictsGenerics\obj\Debug\net8.0\ref\RestrictsGenerics.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\bin\Debug\net8.0\Exemplo02.exe
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\bin\Debug\net8.0\Exemplo02.deps.json
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\bin\Debug\net8.0\Exemplo02.runtimeconfig.json
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\bin\Debug\net8.0\Exemplo02.dll
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\bin\Debug\net8.0\Exemplo02.pdb
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\Exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\Exemplo02.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\Exemplo02.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\Exemplo02.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\Exemplo02.dll
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\refint\Exemplo02.dll
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\Exemplo02.pdb
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\Exemplo02.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 3\Exemplo02\Exemplo02\obj\Debug\net8.0\ref\Exemplo02.dll

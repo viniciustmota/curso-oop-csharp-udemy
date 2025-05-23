@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\composition1\\composition1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|solutionrelative:composition1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\composition1\\composition1\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|solutionrelative:composition1\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\composition1\\composition1\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|solutionrelative:composition1\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\composition1\\composition1\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|solutionrelative:composition1\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\composition1\\composition1\\entities\\enums\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|solutionrelative:composition1\\entities\\enums\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\composition1\\composition1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF894D3-B47A-4458-AB7E-9E830BF65C3A}|Composition1\\Composition1.csproj|solutionrelative:composition1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Composition1\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Composition1\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:12:55.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Composition1\\Entities\\Order.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Order.cs*",
+              "RelativeToolTip": "Composition1\\Entities\\Order.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:11:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Enums\\Client.cs",
+              "RelativeDocumentMoniker": "Composition1\\Entities\\Enums\\Client.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Enums\\Client.cs",
+              "RelativeToolTip": "Composition1\\Entities\\Enums\\Client.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:06:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Composition1\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Composition1\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:01:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Composition1\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Entities\\Product.cs",
+              "RelativeToolTip": "Composition1\\Entities\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:58:44.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Program.cs",
+              "RelativeDocumentMoniker": "Composition1\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Composition1\\Composition1\\Program.cs*",
+              "RelativeToolTip": "Composition1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:55:33.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

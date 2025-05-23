@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo 3\\Exercises\\Exercise02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B97E01-4B4D-4604-A483-93F53EA0E3EB}|Exercise02\\Exercise02.csproj|c:\\temp\\projetos\\capitulo 3\\exercises\\exercise02\\exercise02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B97E01-4B4D-4604-A483-93F53EA0E3EB}|Exercise02\\Exercise02.csproj|solutionrelative:exercise02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B97E01-4B4D-4604-A483-93F53EA0E3EB}|Exercise02\\Exercise02.csproj|c:\\temp\\projetos\\capitulo 3\\exercises\\exercise02\\exercise02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B97E01-4B4D-4604-A483-93F53EA0E3EB}|Exercise02\\Exercise02.csproj|solutionrelative:exercise02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 327,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 3\\Exercises\\Exercise02\\Exercise02\\Employee.cs",
+              "RelativeDocumentMoniker": "Exercise02\\Employee.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 3\\Exercises\\Exercise02\\Exercise02\\Employee.cs",
+              "RelativeToolTip": "Exercise02\\Employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:29:47.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 3\\Exercises\\Exercise02\\Exercise02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise02\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 3\\Exercises\\Exercise02\\Exercise02\\Program.cs",
+              "RelativeToolTip": "Exercise02\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:23:04.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

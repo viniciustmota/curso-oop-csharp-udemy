@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\bin\Debug\net8.0\LinqIntroducion.exe
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\bin\Debug\net8.0\LinqIntroducion.deps.json
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\bin\Debug\net8.0\LinqIntroducion.runtimeconfig.json
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\bin\Debug\net8.0\LinqIntroducion.dll
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\bin\Debug\net8.0\LinqIntroducion.pdb
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\LinqIntroducion.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\LinqIntroducion.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\LinqIntroducion.AssemblyInfo.cs
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\LinqIntroducion.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\LinqIntroducion.dll
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\refint\LinqIntroducion.dll
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\LinqIntroducion.pdb
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\LinqIntroducion.genruntimeconfig.cache
+C:\temp\projetos\Capitulo15\LinqIntroducion\LinqIntroducion\obj\Debug\net8.0\ref\LinqIntroducion.dll

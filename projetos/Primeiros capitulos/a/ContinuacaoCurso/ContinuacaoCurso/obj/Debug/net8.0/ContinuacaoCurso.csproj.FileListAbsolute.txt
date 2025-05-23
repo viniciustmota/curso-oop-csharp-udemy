@@ -1,0 +1,14 @@
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\bin\Debug\net8.0\ContinuacaoCurso.exe
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\bin\Debug\net8.0\ContinuacaoCurso.deps.json
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\bin\Debug\net8.0\ContinuacaoCurso.runtimeconfig.json
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\bin\Debug\net8.0\ContinuacaoCurso.dll
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\bin\Debug\net8.0\ContinuacaoCurso.pdb
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ContinuacaoCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ContinuacaoCurso.AssemblyInfoInputs.cache
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ContinuacaoCurso.AssemblyInfo.cs
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ContinuacaoCurso.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ContinuacaoCurso.dll
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\refint\ContinuacaoCurso.dll
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ContinuacaoCurso.pdb
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ContinuacaoCurso.genruntimeconfig.cache
+C:\temp\projetos\ContinuacaoCurso\ContinuacaoCurso\obj\Debug\net8.0\ref\ContinuacaoCurso.dll

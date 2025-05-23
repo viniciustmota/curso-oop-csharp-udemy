@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo 3\\Tipos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78FE4EC6-BD84-46CC-A458-980D353FE861}|Tipos\\Tipos.csproj|c:\\temp\\projetos\\capitulo 3\\tipos\\tipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FE4EC6-BD84-46CC-A458-980D353FE861}|Tipos\\Tipos.csproj|solutionrelative:tipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FE4EC6-BD84-46CC-A458-980D353FE861}|Tipos\\Tipos.csproj|c:\\temp\\projetos\\capitulo 3\\tipos\\tipos\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FE4EC6-BD84-46CC-A458-980D353FE861}|Tipos\\Tipos.csproj|solutionrelative:tipos\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 370,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 3\\Tipos\\Tipos\\Point.cs",
+              "RelativeDocumentMoniker": "Tipos\\Point.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 3\\Tipos\\Tipos\\Point.cs",
+              "RelativeToolTip": "Tipos\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:25:00.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 3\\Tipos\\Tipos\\Program.cs",
+              "RelativeDocumentMoniker": "Tipos\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 3\\Tipos\\Tipos\\Program.cs*",
+              "RelativeToolTip": "Tipos\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:24:09.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

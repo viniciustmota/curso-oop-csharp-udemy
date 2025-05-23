@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\bin\Debug\net8.0\PersonalizedException.exe
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\bin\Debug\net8.0\PersonalizedException.deps.json
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\bin\Debug\net8.0\PersonalizedException.runtimeconfig.json
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\bin\Debug\net8.0\PersonalizedException.dll
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\bin\Debug\net8.0\PersonalizedException.pdb
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\PersonalizedException.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\PersonalizedException.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\PersonalizedException.AssemblyInfo.cs
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\PersonalizedException.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\PersonalizedException.dll
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\refint\PersonalizedException.dll
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\PersonalizedException.pdb
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\PersonalizedException.genruntimeconfig.cache
+C:\temp\projetos\Capitulo10\PersonalizedException\PersonalizedException\obj\Debug\net8.0\ref\PersonalizedException.dll

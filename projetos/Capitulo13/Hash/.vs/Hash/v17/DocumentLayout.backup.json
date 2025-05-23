@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo13\\Hash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D98EBB-6AED-4071-823F-B2E21C7D1227}|Hash\\Hash.csproj|c:\\temp\\projetos\\capitulo13\\hash\\hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D98EBB-6AED-4071-823F-B2E21C7D1227}|Hash\\Hash.csproj|solutionrelative:hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D98EBB-6AED-4071-823F-B2E21C7D1227}|Hash\\Hash.csproj|c:\\temp\\projetos\\capitulo13\\hash\\hash\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D98EBB-6AED-4071-823F-B2E21C7D1227}|Hash\\Hash.csproj|solutionrelative:hash\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D98EBB-6AED-4071-823F-B2E21C7D1227}|Hash\\Hash.csproj|c:\\temp\\projetos\\capitulo13\\hash\\hash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D98EBB-6AED-4071-823F-B2E21C7D1227}|Hash\\Hash.csproj|solutionrelative:hash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo13\\Hash\\Hash\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Hash\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo13\\Hash\\Hash\\Entities\\Product.cs",
+              "RelativeToolTip": "Hash\\Entities\\Product.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:49:13.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo13\\Hash\\Hash\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "Hash\\Entities\\Point.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo13\\Hash\\Hash\\Entities\\Point.cs",
+              "RelativeToolTip": "Hash\\Entities\\Point.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:47:57.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo13\\Hash\\Hash\\Program.cs",
+              "RelativeDocumentMoniker": "Hash\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo13\\Hash\\Hash\\Program.cs*",
+              "RelativeToolTip": "Hash\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:42:22.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

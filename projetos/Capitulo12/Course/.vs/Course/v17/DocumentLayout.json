@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo12\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|c:\\temp\\projetos\\capitulo12\\course\\course\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|solutionrelative:course\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|c:\\temp\\projetos\\capitulo12\\course\\course\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|solutionrelative:course\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|c:\\temp\\projetos\\capitulo12\\course\\course\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|solutionrelative:course\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|c:\\temp\\projetos\\capitulo12\\course\\course\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|solutionrelative:course\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|c:\\temp\\projetos\\capitulo12\\course\\course\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|solutionrelative:course\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|c:\\temp\\projetos\\capitulo12\\course\\course\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|solutionrelative:course\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|c:\\temp\\projetos\\capitulo12\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658965F8-42F2-4D00-8A0B-54AB18C20424}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Course\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:30:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\CarRental.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Course\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:16:08.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Course\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Services\\ITaxService.cs",
+              "RelativeToolTip": "Course\\Services\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:10:08.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Course\\Services\\RentalService.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Services\\RentalService.cs",
+              "RelativeToolTip": "Course\\Services\\RentalService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:59:38.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "Course\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "Course\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:59:24.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Course\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:54:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\Course\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:57:29.917Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

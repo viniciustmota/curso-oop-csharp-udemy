@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo13\Hash\Hash\bin\Debug\net8.0\Hash.exe
+C:\temp\projetos\Capitulo13\Hash\Hash\bin\Debug\net8.0\Hash.deps.json
+C:\temp\projetos\Capitulo13\Hash\Hash\bin\Debug\net8.0\Hash.runtimeconfig.json
+C:\temp\projetos\Capitulo13\Hash\Hash\bin\Debug\net8.0\Hash.dll
+C:\temp\projetos\Capitulo13\Hash\Hash\bin\Debug\net8.0\Hash.pdb
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\Hash.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\Hash.AssemblyInfo.cs
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\Hash.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\Hash.dll
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\refint\Hash.dll
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\Hash.pdb
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\Hash.genruntimeconfig.cache
+C:\temp\projetos\Capitulo13\Hash\Hash\obj\Debug\net8.0\ref\Hash.dll

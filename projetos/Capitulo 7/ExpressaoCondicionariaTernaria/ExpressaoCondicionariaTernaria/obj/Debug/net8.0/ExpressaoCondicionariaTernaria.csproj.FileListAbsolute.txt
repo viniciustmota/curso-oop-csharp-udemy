@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\bin\Debug\net8.0\ExpressaoCondicionariaTernaria.exe
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\bin\Debug\net8.0\ExpressaoCondicionariaTernaria.deps.json
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\bin\Debug\net8.0\ExpressaoCondicionariaTernaria.runtimeconfig.json
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\bin\Debug\net8.0\ExpressaoCondicionariaTernaria.dll
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\bin\Debug\net8.0\ExpressaoCondicionariaTernaria.pdb
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ExpressaoCondicionariaTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ExpressaoCondicionariaTernaria.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ExpressaoCondicionariaTernaria.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ExpressaoCondicionariaTernaria.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ExpressaoCondicionariaTernaria.dll
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\refint\ExpressaoCondicionariaTernaria.dll
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ExpressaoCondicionariaTernaria.pdb
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ExpressaoCondicionariaTernaria.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 7\ExpressaoCondicionariaTernaria\ExpressaoCondicionariaTernaria\obj\Debug\net8.0\ref\ExpressaoCondicionariaTernaria.dll

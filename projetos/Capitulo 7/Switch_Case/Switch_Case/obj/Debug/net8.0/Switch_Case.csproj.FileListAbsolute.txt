@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\bin\Debug\net8.0\Switch_Case.exe
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\bin\Debug\net8.0\Switch_Case.deps.json
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\bin\Debug\net8.0\Switch_Case.runtimeconfig.json
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\bin\Debug\net8.0\Switch_Case.dll
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\bin\Debug\net8.0\Switch_Case.pdb
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\Switch_Case.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\Switch_Case.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\Switch_Case.dll
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\refint\Switch_Case.dll
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\Switch_Case.pdb
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\Switch_Case.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 7\Switch_Case\Switch_Case\obj\Debug\net8.0\ref\Switch_Case.dll

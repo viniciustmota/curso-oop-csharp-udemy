@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\MembrosEstaticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96A8CB5-E741-402F-B982-15A4F9F14D91}|MembrosEstaticos\\MembrosEstaticos.csproj|c:\\temp\\projetos\\membrosestaticos\\membrosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96A8CB5-E741-402F-B982-15A4F9F14D91}|MembrosEstaticos\\MembrosEstaticos.csproj|solutionrelative:membrosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96A8CB5-E741-402F-B982-15A4F9F14D91}|MembrosEstaticos\\MembrosEstaticos.csproj|c:\\temp\\projetos\\membrosestaticos\\membrosestaticos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96A8CB5-E741-402F-B982-15A4F9F14D91}|MembrosEstaticos\\MembrosEstaticos.csproj|solutionrelative:membrosestaticos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 370,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\MembrosEstaticos\\MembrosEstaticos\\Calculadora.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos\\Calculadora.cs",
+              "ToolTip": "C:\\temp\\projetos\\MembrosEstaticos\\MembrosEstaticos\\Calculadora.cs",
+              "RelativeToolTip": "MembrosEstaticos\\Calculadora.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA/wA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:33:04.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\MembrosEstaticos\\MembrosEstaticos\\Program.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\MembrosEstaticos\\MembrosEstaticos\\Program.cs",
+              "RelativeToolTip": "MembrosEstaticos\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:18:33.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

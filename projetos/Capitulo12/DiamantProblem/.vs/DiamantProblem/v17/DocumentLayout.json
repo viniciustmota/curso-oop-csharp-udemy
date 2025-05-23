@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|c:\\temp\\projetos\\capitulo12\\diamantproblem\\diamantproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|solutionrelative:diamantproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|c:\\temp\\projetos\\capitulo12\\diamantproblem\\diamantproblem\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|solutionrelative:diamantproblem\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|c:\\temp\\projetos\\capitulo12\\diamantproblem\\diamantproblem\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|solutionrelative:diamantproblem\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|c:\\temp\\projetos\\capitulo12\\diamantproblem\\diamantproblem\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|solutionrelative:diamantproblem\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|c:\\temp\\projetos\\capitulo12\\diamantproblem\\diamantproblem\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|solutionrelative:diamantproblem\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|c:\\temp\\projetos\\capitulo12\\diamantproblem\\diamantproblem\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|solutionrelative:diamantproblem\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|c:\\temp\\projetos\\capitulo12\\diamantproblem\\diamantproblem\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FDD256-E64B-45C6-B953-EE53D3F4532C}|DiamantProblem\\DiamantProblem.csproj|solutionrelative:diamantproblem\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboDevice.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\ComboDevice.cs",
+              "RelativeDocumentMoniker": "DiamantProblem\\Devices\\ComboDevice.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\ComboDevice.cs",
+              "RelativeToolTip": "DiamantProblem\\Devices\\ComboDevice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:15:51.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\Scanner.cs",
+              "RelativeDocumentMoniker": "DiamantProblem\\Devices\\Scanner.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\Scanner.cs",
+              "RelativeToolTip": "DiamantProblem\\Devices\\Scanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:14:34.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\Printer.cs",
+              "RelativeDocumentMoniker": "DiamantProblem\\Devices\\Printer.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\Printer.cs",
+              "RelativeToolTip": "DiamantProblem\\Devices\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:10:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\IPrinter.cs",
+              "RelativeDocumentMoniker": "DiamantProblem\\Devices\\IPrinter.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\IPrinter.cs",
+              "RelativeToolTip": "DiamantProblem\\Devices\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:09:54.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\IScanner.cs",
+              "RelativeDocumentMoniker": "DiamantProblem\\Devices\\IScanner.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\IScanner.cs",
+              "RelativeToolTip": "DiamantProblem\\Devices\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:09:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\Device.cs",
+              "RelativeDocumentMoniker": "DiamantProblem\\Devices\\Device.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Devices\\Device.cs",
+              "RelativeToolTip": "DiamantProblem\\Devices\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:07:46.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Program.cs",
+              "RelativeDocumentMoniker": "DiamantProblem\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo12\\DiamantProblem\\DiamantProblem\\Program.cs",
+              "RelativeToolTip": "DiamantProblem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:06:51.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

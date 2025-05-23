@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\bin\Debug\net8.0\Tipos.exe
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\bin\Debug\net8.0\Tipos.deps.json
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\bin\Debug\net8.0\Tipos.runtimeconfig.json
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\bin\Debug\net8.0\Tipos.dll
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\bin\Debug\net8.0\Tipos.pdb
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\Tipos.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\Tipos.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\Tipos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\Tipos.dll
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\refint\Tipos.dll
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\Tipos.pdb
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\Tipos.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 3\Tipos\Tipos\obj\Debug\net8.0\ref\Tipos.dll

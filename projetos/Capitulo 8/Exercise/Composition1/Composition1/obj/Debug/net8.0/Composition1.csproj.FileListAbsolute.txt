@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\bin\Debug\net8.0\Composition1.exe
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\bin\Debug\net8.0\Composition1.deps.json
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\bin\Debug\net8.0\Composition1.runtimeconfig.json
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\bin\Debug\net8.0\Composition1.dll
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\bin\Debug\net8.0\Composition1.pdb
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\Composition1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\Composition1.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\Composition1.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\Composition1.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\Composition1.dll
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\refint\Composition1.dll
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\Composition1.pdb
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\Composition1.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 8\Exercise\Composition1\Composition1\obj\Debug\net8.0\ref\Composition1.dll

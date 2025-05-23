@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo10\\Exercises\\Exercise01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47F76845-670B-4D52-A04C-28811A583C10}|Exercise01\\Exercise01.csproj|c:\\temp\\projetos\\capitulo10\\exercises\\exercise01\\exercise01\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F76845-670B-4D52-A04C-28811A583C10}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F76845-670B-4D52-A04C-28811A583C10}|Exercise01\\Exercise01.csproj|c:\\temp\\projetos\\capitulo10\\exercises\\exercise01\\exercise01\\entities\\exceptions\\withdrawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F76845-670B-4D52-A04C-28811A583C10}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\entities\\exceptions\\withdrawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F76845-670B-4D52-A04C-28811A583C10}|Exercise01\\Exercise01.csproj|c:\\temp\\projetos\\capitulo10\\exercises\\exercise01\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F76845-670B-4D52-A04C-28811A583C10}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WithdrawException.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo10\\Exercises\\Exercise01\\Exercise01\\Entities\\Exceptions\\WithdrawException.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Entities\\Exceptions\\WithdrawException.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo10\\Exercises\\Exercise01\\Exercise01\\Entities\\Exceptions\\WithdrawException.cs",
+              "RelativeToolTip": "Exercise01\\Entities\\Exceptions\\WithdrawException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:11:53.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo10\\Exercises\\Exercise01\\Exercise01\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Entities\\Account.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo10\\Exercises\\Exercise01\\Exercise01\\Entities\\Account.cs",
+              "RelativeToolTip": "Exercise01\\Entities\\Account.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wCUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:54:30.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo10\\Exercises\\Exercise01\\Exercise01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo10\\Exercises\\Exercise01\\Exercise01\\Program.cs",
+              "RelativeToolTip": "Exercise01\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:51:25.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

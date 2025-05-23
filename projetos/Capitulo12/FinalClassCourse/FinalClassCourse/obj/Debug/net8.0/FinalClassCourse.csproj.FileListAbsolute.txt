@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\bin\Debug\net8.0\FinalClassCourse.exe
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\bin\Debug\net8.0\FinalClassCourse.deps.json
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\bin\Debug\net8.0\FinalClassCourse.runtimeconfig.json
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\bin\Debug\net8.0\FinalClassCourse.dll
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\bin\Debug\net8.0\FinalClassCourse.pdb
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\FinalClassCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\FinalClassCourse.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\FinalClassCourse.AssemblyInfo.cs
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\FinalClassCourse.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\FinalClassCourse.dll
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\refint\FinalClassCourse.dll
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\FinalClassCourse.pdb
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\FinalClassCourse.genruntimeconfig.cache
+C:\temp\projetos\Capitulo12\FinalClassCourse\FinalClassCourse\obj\Debug\net8.0\ref\FinalClassCourse.dll

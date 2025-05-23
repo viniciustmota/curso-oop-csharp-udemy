@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo 3\List\List\bin\Debug\net8.0\List.exe
+C:\temp\projetos\Capitulo 3\List\List\bin\Debug\net8.0\List.deps.json
+C:\temp\projetos\Capitulo 3\List\List\bin\Debug\net8.0\List.runtimeconfig.json
+C:\temp\projetos\Capitulo 3\List\List\bin\Debug\net8.0\List.dll
+C:\temp\projetos\Capitulo 3\List\List\bin\Debug\net8.0\List.pdb
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\List.dll
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\refint\List.dll
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\List.pdb
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+C:\temp\projetos\Capitulo 3\List\List\obj\Debug\net8.0\ref\List.dll

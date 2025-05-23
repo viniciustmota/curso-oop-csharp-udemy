@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\ListaExerciciosEstruturaSequencial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B20EFA5-93AF-48F8-8202-F79321CC633E}|ListaExerciciosEstruturaSequencial\\ListaExerciciosEstruturaSequencial.csproj|c:\\temp\\projetos\\listaexerciciosestruturasequencial\\listaexerciciosestruturasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B20EFA5-93AF-48F8-8202-F79321CC633E}|ListaExerciciosEstruturaSequencial\\ListaExerciciosEstruturaSequencial.csproj|solutionrelative:listaexerciciosestruturasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\ListaExerciciosEstruturaSequencial\\ListaExerciciosEstruturaSequencial\\Program.cs",
+              "RelativeDocumentMoniker": "ListaExerciciosEstruturaSequencial\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\ListaExerciciosEstruturaSequencial\\ListaExerciciosEstruturaSequencial\\Program.cs",
+              "RelativeToolTip": "ListaExerciciosEstruturaSequencial\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:31:40.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

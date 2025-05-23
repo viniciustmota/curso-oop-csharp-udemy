@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Exercises\\Exercicio03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B52836BB-1336-4469-BE6A-CFC79F924253}|Exercicio03\\Exercicio03.csproj|c:\\temp\\projetos\\exercises\\exercicio03\\exercicio03\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52836BB-1336-4469-BE6A-CFC79F924253}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52836BB-1336-4469-BE6A-CFC79F924253}|Exercicio03\\Exercicio03.csproj|c:\\temp\\projetos\\exercises\\exercicio03\\exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52836BB-1336-4469-BE6A-CFC79F924253}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 370,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercises\\Exercicio03\\Exercicio03\\Aluno.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Aluno.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercises\\Exercicio03\\Exercicio03\\Aluno.cs",
+              "RelativeToolTip": "Exercicio03\\Aluno.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:53:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercises\\Exercicio03\\Exercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercises\\Exercicio03\\Exercicio03\\Program.cs",
+              "RelativeToolTip": "Exercicio03\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:51:21.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\bin\Debug\net8.0\ProjectLinq.exe
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\bin\Debug\net8.0\ProjectLinq.deps.json
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\bin\Debug\net8.0\ProjectLinq.runtimeconfig.json
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\bin\Debug\net8.0\ProjectLinq.dll
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\bin\Debug\net8.0\ProjectLinq.pdb
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ProjectLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ProjectLinq.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ProjectLinq.AssemblyInfo.cs
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ProjectLinq.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ProjectLinq.dll
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\refint\ProjectLinq.dll
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ProjectLinq.pdb
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ProjectLinq.genruntimeconfig.cache
+C:\temp\projetos\Capitulo15\ProjectLinq\ProjectLinq\obj\Debug\net8.0\ref\ProjectLinq.dll

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo 7\\ExpressaoCondicionariaTernaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C7539E-F072-4FA4-AAFC-DE0CC52C87FE}|ExpressaoCondicionariaTernaria\\ExpressaoCondicionariaTernaria.csproj|c:\\temp\\projetos\\capitulo 7\\expressaocondicionariaternaria\\expressaocondicionariaternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C7539E-F072-4FA4-AAFC-DE0CC52C87FE}|ExpressaoCondicionariaTernaria\\ExpressaoCondicionariaTernaria.csproj|solutionrelative:expressaocondicionariaternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 7\\ExpressaoCondicionariaTernaria\\ExpressaoCondicionariaTernaria\\Program.cs",
+              "RelativeDocumentMoniker": "ExpressaoCondicionariaTernaria\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 7\\ExpressaoCondicionariaTernaria\\ExpressaoCondicionariaTernaria\\Program.cs",
+              "RelativeToolTip": "ExpressaoCondicionariaTernaria\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:09:59.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

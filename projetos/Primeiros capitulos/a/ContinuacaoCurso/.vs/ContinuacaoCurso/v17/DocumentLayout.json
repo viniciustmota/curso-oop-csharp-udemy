@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\ContinuacaoCurso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{876A02CC-BBC3-4671-B51E-D95053D17B92}|ContinuacaoCurso\\ContinuacaoCurso.csproj|c:\\temp\\projetos\\continuacaocurso\\continuacaocurso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A02CC-BBC3-4671-B51E-D95053D17B92}|ContinuacaoCurso\\ContinuacaoCurso.csproj|solutionrelative:continuacaocurso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\ContinuacaoCurso\\ContinuacaoCurso\\Program.cs",
+              "RelativeDocumentMoniker": "ContinuacaoCurso\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\ContinuacaoCurso\\ContinuacaoCurso\\Program.cs",
+              "RelativeToolTip": "ContinuacaoCurso\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:25:49.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

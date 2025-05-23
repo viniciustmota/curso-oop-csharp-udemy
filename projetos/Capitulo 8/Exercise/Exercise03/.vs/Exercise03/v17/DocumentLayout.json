@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\exercise03\\exercise03\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\exercise03\\exercise03\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\exercise03\\exercise03\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\exercise03\\exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|c:\\temp\\projetos\\capitulo 8\\exercise\\exercise03\\exercise03\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424E176D-1A00-4ACF-84FD-A2945203A23F}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Exercise03\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:32:13.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\Product.cs",
+              "RelativeToolTip": "Exercise03\\Entities\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:31:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Entities\\Client.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\Client.cs",
+              "RelativeToolTip": "Exercise03\\Entities\\Client.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:28:09.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Entities\\Order.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Entities\\Order.cs",
+              "RelativeToolTip": "Exercise03\\Entities\\Order.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:20:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Capitulo 8\\Exercise\\Exercise03\\Exercise03\\Program.cs",
+              "RelativeToolTip": "Exercise03\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:30:03.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

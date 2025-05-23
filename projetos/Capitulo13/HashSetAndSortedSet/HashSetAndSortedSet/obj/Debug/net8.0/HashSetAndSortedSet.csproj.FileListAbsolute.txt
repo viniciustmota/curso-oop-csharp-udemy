@@ -1,0 +1,14 @@
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.exe
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.deps.json
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.runtimeconfig.json
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.dll
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.pdb
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.AssemblyInfoInputs.cache
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.AssemblyInfo.cs
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.dll
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\refint\HashSetAndSortedSet.dll
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.pdb
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.genruntimeconfig.cache
+C:\temp\projetos\Capitulo13\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net8.0\ref\HashSetAndSortedSet.dll
